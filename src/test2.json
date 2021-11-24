@@ -1,0 +1,231 @@
+[
+    
+    {
+        "id": 1817,
+        "name": "Mosopa",
+        "local_name": null,
+        "domain": "mosopa",
+        "created_at": "2018-05-10T13:46:11.000000Z",
+        "updated_at": "2018-05-10T13:46:11.000000Z",
+        "deleted_at": null,
+        "title": "",
+        "meta_description": null,
+        "map": null,
+        "sort": 0,
+        "description": "",
+        "timezone": "GMT+2",
+        "country_id": 45,
+        "prices": {
+            "rates": {
+                "light": {
+                    "fee": "200",
+                    "per_mile": "10"
+                },
+                "medium": {
+                    "fee": "300",
+                    "per_mile": "12"
+                },
+                "heavy": {
+                    "fee": "700",
+                    "per_mile": "20"
+                },
+                "miles": "1"
+            },
+            "extra": {
+                "winching": "200",
+                "night_charge": "200",
+                "labour": "200",
+                "lockout": "200",
+                "tire_change": "200",
+                "jump_start": "200",
+                "fuel_delivery": "200"
+            }
+        },
+        "city_code": "",
+        "active": 1,
+        "absolute_url": "\/bw\/mosopa",
+        "map_data": {
+            "lng": 25.4126766,
+            "lat": -24.7766283,
+            "zoom": 13
+        },
+        "headline": "",
+        "country": {
+            "id": 45,
+            "sort": 0,
+            "lang": "en",
+            "code": "bw",
+            "title": "Botswana",
+            "web_title": "",
+            "created_at": "2018-04-27T11:18:35.000000Z",
+            "updated_at": "2020-04-12T01:30:13.000000Z",
+            "text": "",
+            "country_map": {
+                "lng": 23.232608,
+                "lat": -21.8998074,
+                "zoom": 6
+            },
+            "phone_code": "+267",
+            "is_default": false,
+            "timezone": "GMT+2",
+            "currency": "P",
+            "phone_full_mask": "+267 ",
+            "phone_mask": "",
+            "pay_currency": "USD",
+            "fields_mapping": "App\\Models\\TowTrucks\\EuropeFieldsMapping",
+            "absolute_url": "\/bw"
+        }
+    },
+    {
+        "id": 3777,
+        "name": "Mossel Bay",
+        "local_name": null,
+        "domain": "mossel-bay",
+        "created_at": "2018-05-28T19:39:16.000000Z",
+        "updated_at": "2018-05-28T19:39:16.000000Z",
+        "deleted_at": null,
+        "title": "",
+        "meta_description": null,
+        "map": null,
+        "sort": 0,
+        "description": "",
+        "timezone": "GMT+2",
+        "country_id": 77,
+        "prices": {
+            "rates": {
+                "light": {
+                    "fee": "250",
+                    "per_mile": "10"
+                },
+                "medium": {
+                    "fee": "350",
+                    "per_mile": "15"
+                },
+                "heavy": {
+                    "fee": "850",
+                    "per_mile": "25"
+                },
+                "miles": "1"
+            },
+            "extra": {
+                "winching": "250",
+                "night_charge": "250",
+                "labour": "250",
+                "lockout": "250",
+                "tire_change": "250",
+                "jump_start": "250",
+                "fuel_delivery": "250"
+            }
+        },
+        "city_code": "",
+        "active": 1,
+        "absolute_url": "\/za\/mossel-bay",
+        "map_data": {
+            "lng": 22.1002483,
+            "lat": -34.1736197,
+            "zoom": 13
+        },
+        "headline": "",
+        "country": {
+            "id": 77,
+            "sort": 0,
+            "lang": "en",
+            "code": "za",
+            "title": "South Africa",
+            "web_title": "",
+            "created_at": "2018-04-27T13:35:38.000000Z",
+            "updated_at": "2019-02-01T15:32:02.000000Z",
+            "text": "",
+            "country_map": {
+                "lng": 25.8828148,
+                "lat": -28.5921015,
+                "zoom": 6
+            },
+            "phone_code": "+27",
+            "is_default": false,
+            "timezone": "GMT+2",
+            "currency": "R",
+            "phone_full_mask": "+27 (11) 111-1111",
+            "phone_mask": "(11) 111-1111",
+            "pay_currency": "USD",
+            "fields_mapping": "App\\Models\\TowTrucks\\EuropeFieldsMapping",
+            "absolute_url": "\/za"
+        }
+    },
+    {
+        "id": 3908,
+        "name": "Moshi",
+        "local_name": null,
+        "domain": "moshi",
+        "created_at": "2018-05-29T11:34:45.000000Z",
+        "updated_at": "2018-05-29T11:34:45.000000Z",
+        "deleted_at": null,
+        "title": "",
+        "meta_description": null,
+        "map": null,
+        "sort": 0,
+        "description": "",
+        "timezone": "GMT+3",
+        "country_id": 78,
+        "prices": {
+            "rates": {
+                "light": {
+                    "fee": "45000",
+                    "per_mile": "2200"
+                },
+                "medium": {
+                    "fee": "68000",
+                    "per_mile": "2800"
+                },
+                "heavy": {
+                    "fee": "160000",
+                    "per_mile": "4500"
+                },
+                "miles": "1"
+            },
+            "extra": {
+                "winching": "45000",
+                "night_charge": "45000",
+                "labour": "45000",
+                "lockout": "45000",
+                "tire_change": "45000",
+                "jump_start": "45000",
+                "fuel_delivery": "45000"
+            }
+        },
+        "city_code": "",
+        "active": 1,
+        "absolute_url": "\/tz\/moshi",
+        "map_data": {
+            "lng": 37.3193194,
+            "lat": -3.3661757,
+            "zoom": 12
+        },
+        "headline": "",
+        "country": {
+            "id": 78,
+            "sort": 0,
+            "lang": "en",
+            "code": "tz",
+            "title": "Tanzania",
+            "web_title": "",
+            "created_at": "2018-04-27T13:43:16.000000Z",
+            "updated_at": "2019-02-01T15:33:22.000000Z",
+            "text": "",
+            "country_map": {
+                "lng": 34.8423282,
+                "lat": -6.1130868,
+                "zoom": 6
+            },
+            "phone_code": "+255",
+            "is_default": false,
+            "timezone": "GMT+3",
+            "currency": "TSh",
+            "phone_full_mask": "+255 (111) 111-111",
+            "phone_mask": "(111) 111-111",
+            "pay_currency": "USD",
+            "fields_mapping": "App\\Models\\TowTrucks\\EuropeFieldsMapping",
+            "absolute_url": "\/tz"
+        }
+    }
+]

@@ -1,0 +1,458 @@
+[
+    {
+        "id": 202,
+        "name": "Modesto CA",
+        "local_name": null,
+        "domain": "modesto-ca",
+        "created_at": "2017-04-25T11:35:58.000000Z",
+        "updated_at": "2019-09-07T17:38:04.000000Z",
+        "deleted_at": null,
+        "title": "",
+        "meta_description": "",
+        "map": "",
+        "sort": 0,
+        "description": "",
+        "timezone": "GMT-7",
+        "country_id": 2,
+        "prices": {
+            "rates": {
+                "light": {
+                    "fee": "50",
+                    "per_mile": "3"
+                },
+                "medium": {
+                    "fee": "80",
+                    "per_mile": "4"
+                },
+                "heavy": {
+                    "fee": "100",
+                    "per_mile": "5"
+                },
+                "miles": "1"
+            },
+            "extra": {
+                "winching": "50",
+                "night_charge": "50",
+                "labour": "50",
+                "lockout": "50",
+                "tire_change": "50",
+                "jump_start": "50",
+                "fuel_delivery": "50"
+            }
+        },
+        "city_code": "",
+        "active": 1,
+        "absolute_url": "\/us\/modesto-ca",
+        "map_data": {
+            "lng": -120.997582,
+            "lat": 37.636096,
+            "zoom": 12
+        },
+        "headline": "",
+        "country": {
+            "id": 2,
+            "sort": 0,
+            "lang": "en",
+            "code": "us",
+            "title": "USA",
+            "web_title": "",
+            "created_at": "2016-09-27T00:42:58.000000Z",
+            "updated_at": "2018-05-11T12:38:24.000000Z",
+            "text": "<h5><strong>Welcome to Towing services list<\/strong><\/h5>\n\n<p>We have collected all towing companies. Please use search field to find a towing company or choose the city from the list.<br \/>\n<strong><br \/>\nHow to find a towing company<\/strong><br \/>\n1) Choose the nearest city from the list at the right top corner.<br \/>\n2) Use map or the list of profiles to find the towing company.<br \/>\n3) You can also use filter at the left side.<br \/>\n4) We also recommend to look through the page\u00a0<a href=\"https:\/\/yrcat.com\/towing\/how-to-order\">How to order<\/a><\/p>\n\n<p><strong>For towing company owners<\/strong><br \/>\nIf you operate a towing company you can <a href=\"https:\/\/yrcat.com\/towing\/towtruck\/add\"><a href=\"https:\/\/yrcat.com\/towing\/towtruck\/add\">add your company<\/a>\u00a0and get cash calls for towing.<\/p>\n\n<p><em><\/em><\/p>\n",
+            "country_map": {
+                "lng": -97.4807447,
+                "lat": 37.0124849,
+                "zoom": 5
+            },
+            "phone_code": "+1",
+            "is_default": true,
+            "timezone": "GMT-5",
+            "currency": "$",
+            "phone_full_mask": "+1 (111) 111-1111",
+            "phone_mask": "(111) 111-1111",
+            "pay_currency": "USD",
+            "fields_mapping": "App\\Models\\TowTrucks\\DefaultFieldsMapping",
+            "absolute_url": "\/us"
+        }
+    },
+    {
+        "id": 208,
+        "name": "Moreno Valley",
+        "local_name": null,
+        "domain": "moreno-valley",
+        "created_at": "2017-05-01T07:15:31.000000Z",
+        "updated_at": "2017-05-01T07:24:18.000000Z",
+        "deleted_at": null,
+        "title": "",
+        "meta_description": "",
+        "map": "",
+        "sort": 0,
+        "description": "",
+        "timezone": "GMT-7",
+        "country_id": 2,
+        "prices": {
+            "rates": {
+                "light": {
+                    "fee": "50",
+                    "per_mile": "3"
+                },
+                "medium": {
+                    "fee": "80",
+                    "per_mile": "4"
+                },
+                "heavy": {
+                    "fee": "100",
+                    "per_mile": "5"
+                },
+                "miles": "1"
+            },
+            "extra": {
+                "winching": "50",
+                "night_charge": "50",
+                "labour": "50",
+                "lockout": "50",
+                "tire_change": "50",
+                "jump_start": "50",
+                "fuel_delivery": "50"
+            }
+        },
+        "city_code": "",
+        "active": 1,
+        "absolute_url": "\/us\/moreno-valley",
+        "map_data": {
+            "lng": -117.272149,
+            "lat": 33.90541,
+            "zoom": 12
+        },
+        "headline": "",
+        "country": {
+            "id": 2,
+            "sort": 0,
+            "lang": "en",
+            "code": "us",
+            "title": "USA",
+            "web_title": "",
+            "created_at": "2016-09-27T00:42:58.000000Z",
+            "updated_at": "2018-05-11T12:38:24.000000Z",
+            "text": "<h5><strong>Welcome to Towing services list<\/strong><\/h5>\n\n<p>We have collected all towing companies. Please use search field to find a towing company or choose the city from the list.<br \/>\n<strong><br \/>\nHow to find a towing company<\/strong><br \/>\n1) Choose the nearest city from the list at the right top corner.<br \/>\n2) Use map or the list of profiles to find the towing company.<br \/>\n3) You can also use filter at the left side.<br \/>\n4) We also recommend to look through the page\u00a0<a href=\"https:\/\/yrcat.com\/towing\/how-to-order\">How to order<\/a><\/p>\n\n<p><strong>For towing company owners<\/strong><br \/>\nIf you operate a towing company you can <a href=\"https:\/\/yrcat.com\/towing\/towtruck\/add\"><a href=\"https:\/\/yrcat.com\/towing\/towtruck\/add\">add your company<\/a>\u00a0and get cash calls for towing.<\/p>\n\n<p><em><\/em><\/p>\n",
+            "country_map": {
+                "lng": -97.4807447,
+                "lat": 37.0124849,
+                "zoom": 5
+            },
+            "phone_code": "+1",
+            "is_default": true,
+            "timezone": "GMT-5",
+            "currency": "$",
+            "phone_full_mask": "+1 (111) 111-1111",
+            "phone_mask": "(111) 111-1111",
+            "pay_currency": "USD",
+            "fields_mapping": "App\\Models\\TowTrucks\\DefaultFieldsMapping",
+            "absolute_url": "\/us"
+        }
+    },
+    {
+        "id": 215,
+        "name": "Montgomery AL",
+        "local_name": null,
+        "domain": "montgomery-al",
+        "created_at": "2017-05-05T13:27:18.000000Z",
+        "updated_at": "2019-01-18T16:34:50.000000Z",
+        "deleted_at": null,
+        "title": "",
+        "meta_description": null,
+        "map": null,
+        "sort": 0,
+        "description": "",
+        "timezone": "GMT-5",
+        "country_id": 2,
+        "prices": {
+            "rates": {
+                "light": {
+                    "fee": "50",
+                    "per_mile": "3"
+                },
+                "medium": {
+                    "fee": "80",
+                    "per_mile": "4"
+                },
+                "heavy": {
+                    "fee": "100",
+                    "per_mile": "5"
+                },
+                "miles": "1"
+            },
+            "extra": {
+                "winching": "50",
+                "night_charge": "50",
+                "labour": "50",
+                "lockout": "50",
+                "tire_change": "50",
+                "jump_start": "50",
+                "fuel_delivery": "50"
+            }
+        },
+        "city_code": "",
+        "active": 1,
+        "absolute_url": "\/us\/montgomery-al",
+        "map_data": {
+            "lng": -86.3153989,
+            "lat": 32.3702481,
+            "zoom": 11
+        },
+        "headline": "",
+        "country": {
+            "id": 2,
+            "sort": 0,
+            "lang": "en",
+            "code": "us",
+            "title": "USA",
+            "web_title": "",
+            "created_at": "2016-09-27T00:42:58.000000Z",
+            "updated_at": "2018-05-11T12:38:24.000000Z",
+            "text": "<h5><strong>Welcome to Towing services list<\/strong><\/h5>\n\n<p>We have collected all towing companies. Please use search field to find a towing company or choose the city from the list.<br \/>\n<strong><br \/>\nHow to find a towing company<\/strong><br \/>\n1) Choose the nearest city from the list at the right top corner.<br \/>\n2) Use map or the list of profiles to find the towing company.<br \/>\n3) You can also use filter at the left side.<br \/>\n4) We also recommend to look through the page\u00a0<a href=\"https:\/\/yrcat.com\/towing\/how-to-order\">How to order<\/a><\/p>\n\n<p><strong>For towing company owners<\/strong><br \/>\nIf you operate a towing company you can <a href=\"https:\/\/yrcat.com\/towing\/towtruck\/add\"><a href=\"https:\/\/yrcat.com\/towing\/towtruck\/add\">add your company<\/a>\u00a0and get cash calls for towing.<\/p>\n\n<p><em><\/em><\/p>\n",
+            "country_map": {
+                "lng": -97.4807447,
+                "lat": 37.0124849,
+                "zoom": 5
+            },
+            "phone_code": "+1",
+            "is_default": true,
+            "timezone": "GMT-5",
+            "currency": "$",
+            "phone_full_mask": "+1 (111) 111-1111",
+            "phone_mask": "(111) 111-1111",
+            "pay_currency": "USD",
+            "fields_mapping": "App\\Models\\TowTrucks\\DefaultFieldsMapping",
+            "absolute_url": "\/us"
+        }
+    },
+    {
+        "id": 222,
+        "name": "Mobile AL",
+        "local_name": null,
+        "domain": "mobile-al",
+        "created_at": "2017-05-07T13:34:50.000000Z",
+        "updated_at": "2019-09-09T10:38:45.000000Z",
+        "deleted_at": null,
+        "title": "",
+        "meta_description": null,
+        "map": null,
+        "sort": 0,
+        "description": "",
+        "timezone": "GMT-5",
+        "country_id": 2,
+        "prices": {
+            "rates": {
+                "light": {
+                    "fee": "50",
+                    "per_mile": "3"
+                },
+                "medium": {
+                    "fee": "80",
+                    "per_mile": "4"
+                },
+                "heavy": {
+                    "fee": "100",
+                    "per_mile": "5"
+                },
+                "miles": "1"
+            },
+            "extra": {
+                "winching": "50",
+                "night_charge": "50",
+                "labour": "50",
+                "lockout": "50",
+                "tire_change": "50",
+                "jump_start": "50",
+                "fuel_delivery": "50"
+            }
+        },
+        "city_code": "",
+        "active": 1,
+        "absolute_url": "\/us\/mobile-al",
+        "map_data": {
+            "lng": -88.0771124,
+            "lat": 30.6975577,
+            "zoom": 11
+        },
+        "headline": "",
+        "country": {
+            "id": 2,
+            "sort": 0,
+            "lang": "en",
+            "code": "us",
+            "title": "USA",
+            "web_title": "",
+            "created_at": "2016-09-27T00:42:58.000000Z",
+            "updated_at": "2018-05-11T12:38:24.000000Z",
+            "text": "<h5><strong>Welcome to Towing services list<\/strong><\/h5>\n\n<p>We have collected all towing companies. Please use search field to find a towing company or choose the city from the list.<br \/>\n<strong><br \/>\nHow to find a towing company<\/strong><br \/>\n1) Choose the nearest city from the list at the right top corner.<br \/>\n2) Use map or the list of profiles to find the towing company.<br \/>\n3) You can also use filter at the left side.<br \/>\n4) We also recommend to look through the page\u00a0<a href=\"https:\/\/yrcat.com\/towing\/how-to-order\">How to order<\/a><\/p>\n\n<p><strong>For towing company owners<\/strong><br \/>\nIf you operate a towing company you can <a href=\"https:\/\/yrcat.com\/towing\/towtruck\/add\"><a href=\"https:\/\/yrcat.com\/towing\/towtruck\/add\">add your company<\/a>\u00a0and get cash calls for towing.<\/p>\n\n<p><em><\/em><\/p>\n",
+            "country_map": {
+                "lng": -97.4807447,
+                "lat": 37.0124849,
+                "zoom": 5
+            },
+            "phone_code": "+1",
+            "is_default": true,
+            "timezone": "GMT-5",
+            "currency": "$",
+            "phone_full_mask": "+1 (111) 111-1111",
+            "phone_mask": "(111) 111-1111",
+            "pay_currency": "USD",
+            "fields_mapping": "App\\Models\\TowTrucks\\DefaultFieldsMapping",
+            "absolute_url": "\/us"
+        }
+    },
+    {
+        "id": 290,
+        "name": "Mooresville IN",
+        "local_name": null,
+        "domain": "mooresville-in",
+        "created_at": "2017-06-19T12:24:56.000000Z",
+        "updated_at": "2017-06-26T07:15:33.000000Z",
+        "deleted_at": null,
+        "title": "",
+        "meta_description": "",
+        "map": "",
+        "sort": 0,
+        "description": "",
+        "timezone": "GMT-4",
+        "country_id": 2,
+        "prices": {
+            "rates": {
+                "light": {
+                    "fee": "50",
+                    "per_mile": "3"
+                },
+                "medium": {
+                    "fee": "80",
+                    "per_mile": "4"
+                },
+                "heavy": {
+                    "fee": "100",
+                    "per_mile": "5"
+                },
+                "miles": "1"
+            },
+            "extra": {
+                "winching": "50",
+                "night_charge": "50",
+                "labour": "50",
+                "lockout": "50",
+                "tire_change": "50",
+                "jump_start": "50",
+                "fuel_delivery": "50"
+            }
+        },
+        "city_code": "",
+        "active": 1,
+        "absolute_url": "\/us\/mooresville-in",
+        "map_data": {
+            "lng": -86.3705449,
+            "lat": 39.6134096,
+            "zoom": 13
+        },
+        "headline": "",
+        "country": {
+            "id": 2,
+            "sort": 0,
+            "lang": "en",
+            "code": "us",
+            "title": "USA",
+            "web_title": "",
+            "created_at": "2016-09-27T00:42:58.000000Z",
+            "updated_at": "2018-05-11T12:38:24.000000Z",
+            "text": "<h5><strong>Welcome to Towing services list<\/strong><\/h5>\n\n<p>We have collected all towing companies. Please use search field to find a towing company or choose the city from the list.<br \/>\n<strong><br \/>\nHow to find a towing company<\/strong><br \/>\n1) Choose the nearest city from the list at the right top corner.<br \/>\n2) Use map or the list of profiles to find the towing company.<br \/>\n3) You can also use filter at the left side.<br \/>\n4) We also recommend to look through the page\u00a0<a href=\"https:\/\/yrcat.com\/towing\/how-to-order\">How to order<\/a><\/p>\n\n<p><strong>For towing company owners<\/strong><br \/>\nIf you operate a towing company you can <a href=\"https:\/\/yrcat.com\/towing\/towtruck\/add\"><a href=\"https:\/\/yrcat.com\/towing\/towtruck\/add\">add your company<\/a>\u00a0and get cash calls for towing.<\/p>\n\n<p><em><\/em><\/p>\n",
+            "country_map": {
+                "lng": -97.4807447,
+                "lat": 37.0124849,
+                "zoom": 5
+            },
+            "phone_code": "+1",
+            "is_default": true,
+            "timezone": "GMT-5",
+            "currency": "$",
+            "phone_full_mask": "+1 (111) 111-1111",
+            "phone_mask": "(111) 111-1111",
+            "pay_currency": "USD",
+            "fields_mapping": "App\\Models\\TowTrucks\\DefaultFieldsMapping",
+            "absolute_url": "\/us"
+        }
+    },
+    {
+        "id": 661,
+        "name": "Morganton NC",
+        "local_name": null,
+        "domain": "morganton-nc",
+        "created_at": "2017-10-18T12:47:13.000000Z",
+        "updated_at": "2017-10-18T12:47:13.000000Z",
+        "deleted_at": null,
+        "title": "",
+        "meta_description": null,
+        "map": null,
+        "sort": 0,
+        "description": "",
+        "timezone": "GMT-4",
+        "country_id": 2,
+        "prices": {
+            "rates": {
+                "light": {
+                    "fee": "50",
+                    "per_mile": "3"
+                },
+                "medium": {
+                    "fee": "80",
+                    "per_mile": "4"
+                },
+                "heavy": {
+                    "fee": "100",
+                    "per_mile": "5"
+                },
+                "miles": "1"
+            },
+            "extra": {
+                "winching": "50",
+                "night_charge": "50",
+                "labour": "50",
+                "lockout": "50",
+                "tire_change": "50",
+                "jump_start": "50",
+                "fuel_delivery": "50"
+            }
+        },
+        "city_code": "",
+        "active": 1,
+        "absolute_url": "\/us\/morganton-nc",
+        "map_data": {
+            "lng": -81.6868091,
+            "lat": 35.7489329,
+            "zoom": 13
+        },
+        "headline": "",
+        "country": {
+            "id": 2,
+            "sort": 0,
+            "lang": "en",
+            "code": "us",
+            "title": "USA",
+            "web_title": "",
+            "created_at": "2016-09-27T00:42:58.000000Z",
+            "updated_at": "2018-05-11T12:38:24.000000Z",
+            "text": "<h5><strong>Welcome to Towing services list<\/strong><\/h5>\n\n<p>We have collected all towing companies. Please use search field to find a towing company or choose the city from the list.<br \/>\n<strong><br \/>\nHow to find a towing company<\/strong><br \/>\n1) Choose the nearest city from the list at the right top corner.<br \/>\n2) Use map or the list of profiles to find the towing company.<br \/>\n3) You can also use filter at the left side.<br \/>\n4) We also recommend to look through the page\u00a0<a href=\"https:\/\/yrcat.com\/towing\/how-to-order\">How to order<\/a><\/p>\n\n<p><strong>For towing company owners<\/strong><br \/>\nIf you operate a towing company you can <a href=\"https:\/\/yrcat.com\/towing\/towtruck\/add\"><a href=\"https:\/\/yrcat.com\/towing\/towtruck\/add\">add your company<\/a>\u00a0and get cash calls for towing.<\/p>\n\n<p><em><\/em><\/p>\n",
+            "country_map": {
+                "lng": -97.4807447,
+                "lat": 37.0124849,
+                "zoom": 5
+            },
+            "phone_code": "+1",
+            "is_default": true,
+            "timezone": "GMT-5",
+            "currency": "$",
+            "phone_full_mask": "+1 (111) 111-1111",
+            "phone_mask": "(111) 111-1111",
+            "pay_currency": "USD",
+            "fields_mapping": "App\\Models\\TowTrucks\\DefaultFieldsMapping",
+            "absolute_url": "\/us"
+        }
+    }
+]

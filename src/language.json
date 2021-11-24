@@ -2,58 +2,43 @@
     "form_name":"Add your profile",
     "form_description": "Please fill in <b>all fields</b> below and press <b>'Submit'</b> button. The adding profile is <b>free of charge</b>. Paid options start <b>from $50/month</b> and can be added after publishing your profile for best results",
     "city_block_name": "City",
-    "current_city_name": "California",
-    "edit_city_button": "Edit",
+    "edit_city_button": "Change",
+    
     "input_company_name": "Company name",
     "input_phone":"Phone",
     "input_hours": "Hours",
+
     "towing_vehicle_type": "Towing vehicle type",
     "towing_vehicle_type_list":[1,2,3,4,5,6],
-    "main_car_data": [
-        {
-            "name": "Capacity",
-            "placeholder": 12
-        },
-        {
-            "name": "Model",
-            "placeholder": "TExt"
-        },
-        {
-            "name": "Equipment brand",
-            "placeholder": "TExt"
-        },
-        {
-            "name": "Address (for point on map)",
-            "placeholder": "TExt"
 
-        }
-    ],
+    "capacity": "Capacity",
+    "model": "Model",
+    "equipment_brand": "Equipment brand",
+    "address": "Address (for point on map)",
+  
     "input_photos": "Photos",
     "input_photos_txt": "Photo required",
 
     "additional_information": "Additional information",
     
     "rates_block_name":"Rates",
-    "rates_array":[
-        {
-            "name": "Light duty",
-            "options": ["Pick up fee", "Price per mile"]
-        },
-        {
-            "name": "Medium duty",
-            "options": ["Pick up fee", "Price per mile"]
-        },
-        {
-            "name": "Heavy duty",
-            "options": ["Pick up fee", "Price per mile"]
-        }
-    ],
+    "light_duty": "Light duty",
+    "medium_duty": "Medium duty",
+    "heavy_duty": "Heavy duty",
+    "pick_up_fee": "Pick up fee",
+    "price_per_mile": "Price per mile",
     "miles_included":"Miles included in basic fee",
+
+
     
     "extra_service_block_name": "Extra service",
-    "extra_service_array":[
-        "Winching (per hour):", "Night charge:", "Extra labour:", "Lockout:", "Tire change:", "Jump-start:", "Fuel delivery:"
-    ],
+    "winching":"Winching (per hour):",
+    "night_charge": "Night charge:",
+    "lockout": "Lockout:",
+    "tire_change": "Tire change:",
+    "jump_start": "Jump-start:",
+    "fuel_delivery": "Fuel delivery:",
+    
 
     "contact_person_block_name": "Contact person",
     "contact_person": "Contact person",

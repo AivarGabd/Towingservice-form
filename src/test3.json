@@ -1,0 +1,383 @@
+[
+    {
+        "id": 2258,
+        "name": "Moscow ID",
+        "local_name": null,
+        "domain": "moscow-id",
+        "created_at": "2018-05-16T18:56:53.000000Z",
+        "updated_at": "2018-05-16T18:56:53.000000Z",
+        "deleted_at": null,
+        "title": "",
+        "meta_description": null,
+        "map": null,
+        "sort": 0,
+        "description": "",
+        "timezone": "GMT-5",
+        "country_id": 2,
+        "prices": {
+            "rates": {
+                "light": {
+                    "fee": "50",
+                    "per_mile": "3"
+                },
+                "medium": {
+                    "fee": "80",
+                    "per_mile": "4"
+                },
+                "heavy": {
+                    "fee": "150",
+                    "per_mile": "5"
+                },
+                "miles": "1"
+            },
+            "extra": {
+                "winching": "50",
+                "night_charge": "50",
+                "labour": "50",
+                "lockout": "50",
+                "tire_change": "50",
+                "jump_start": "50",
+                "fuel_delivery": "50"
+            }
+        },
+        "city_code": "",
+        "active": 1,
+        "absolute_url": "\/us\/moscow-id",
+        "map_data": {
+            "lng": -117.008265,
+            "lat": 46.7317738,
+            "zoom": 13
+        },
+        "headline": "",
+        "country": {
+            "id": 2,
+            "sort": 0,
+            "lang": "en",
+            "code": "us",
+            "title": "USA",
+            "web_title": "",
+            "created_at": "2016-09-27T00:42:58.000000Z",
+            "updated_at": "2018-05-11T12:38:24.000000Z",
+            "text": "<h5><strong>Welcome to Towing services list<\/strong><\/h5>\n\n<p>We have collected all towing companies. Please use search field to find a towing company or choose the city from the list.<br \/>\n<strong><br \/>\nHow to find a towing company<\/strong><br \/>\n1) Choose the nearest city from the list at the right top corner.<br \/>\n2) Use map or the list of profiles to find the towing company.<br \/>\n3) You can also use filter at the left side.<br \/>\n4) We also recommend to look through the page\u00a0<a href=\"https:\/\/yrcat.com\/towing\/how-to-order\">How to order<\/a><\/p>\n\n<p><strong>For towing company owners<\/strong><br \/>\nIf you operate a towing company you can <a href=\"https:\/\/yrcat.com\/towing\/towtruck\/add\"><a href=\"https:\/\/yrcat.com\/towing\/towtruck\/add\">add your company<\/a>\u00a0and get cash calls for towing.<\/p>\n\n<p><em><\/em><\/p>\n",
+            "country_map": {
+                "lng": -97.4807447,
+                "lat": 37.0124849,
+                "zoom": 5
+            },
+            "phone_code": "+1",
+            "is_default": true,
+            "timezone": "GMT-5",
+            "currency": "$",
+            "phone_full_mask": "+1 (111) 111-1111",
+            "phone_mask": "(111) 111-1111",
+            "pay_currency": "USD",
+            "fields_mapping": "App\\Models\\TowTrucks\\DefaultFieldsMapping",
+            "absolute_url": "\/us"
+        }
+    },
+    {
+        "id": 19636,
+        "name": "Moscow",
+        "local_name": "\u041c\u043e\u0441\u043a\u0432\u0430",
+        "domain": "moscow",
+        "created_at": "2019-09-14T13:03:02.000000Z",
+        "updated_at": "2019-11-19T10:20:59.000000Z",
+        "deleted_at": null,
+        "title": "\u041c\u043e\u0441\u043a\u0432\u0435",
+        "meta_description": null,
+        "map": null,
+        "sort": 0,
+        "description": "",
+        "timezone": "GMT+3",
+        "country_id": 217,
+        "prices": {
+            "rates": {
+                "light": {
+                    "fee": "1200",
+                    "per_mile": "40"
+                },
+                "medium": {
+                    "fee": "1500",
+                    "per_mile": "50"
+                },
+                "heavy": {
+                    "fee": "1800",
+                    "per_mile": "60"
+                },
+                "miles": "1"
+            },
+            "extra": {
+                "winching": "1200",
+                "night_charge": "1200",
+                "labour": "1200",
+                "lockout": "1200",
+                "tire_change": "1200",
+                "jump_start": "1200",
+                "fuel_delivery": "1200"
+            }
+        },
+        "city_code": "",
+        "active": 1,
+        "absolute_url": "\/ru\/moscow",
+        "map_data": {
+            "lng": 37.58026,
+            "lat": 55.747568,
+            "zoom": 11
+        },
+        "headline": "\u041c\u043e\u0441\u043a\u0432\u044b",
+        "country": {
+            "id": 217,
+            "sort": 0,
+            "lang": "en",
+            "code": "ru",
+            "title": "Russia",
+            "web_title": "",
+            "created_at": "2019-09-14T12:52:26.000000Z",
+            "updated_at": "2019-09-14T12:52:26.000000Z",
+            "text": "",
+            "country_map": {
+                "lng": 53.1261852,
+                "lat": 53.6039898,
+                "zoom": 4
+            },
+            "phone_code": "+7",
+            "is_default": false,
+            "timezone": "GMT+3",
+            "currency": "\u20bd",
+            "phone_full_mask": "+7 (111) 111-11-11",
+            "phone_mask": "(111) 111-11-11",
+            "pay_currency": "USD",
+            "fields_mapping": "App\\Models\\TowTrucks\\EuropeFieldsMapping",
+            "absolute_url": "\/ru"
+        }
+    },
+    {
+        "id": 16038,
+        "name": "Moscavide",
+        "local_name": null,
+        "domain": "moscavide",
+        "created_at": "2019-07-18T13:28:37.000000Z",
+        "updated_at": "2019-08-03T02:28:18.000000Z",
+        "deleted_at": null,
+        "title": "",
+        "meta_description": null,
+        "map": null,
+        "sort": 0,
+        "description": "",
+        "timezone": "GMT+0",
+        "country_id": 143,
+        "prices": {
+            "rates": {
+                "light": {
+                    "fee": "40",
+                    "per_mile": "2.5"
+                },
+                "medium": {
+                    "fee": "65",
+                    "per_mile": "3"
+                },
+                "heavy": {
+                    "fee": "125",
+                    "per_mile": "4"
+                },
+                "miles": "1"
+            },
+            "extra": {
+                "winching": "40",
+                "night_charge": "40",
+                "labour": "40",
+                "lockout": "40",
+                "tire_change": "40",
+                "jump_start": "40",
+                "fuel_delivery": "40"
+            }
+        },
+        "city_code": "",
+        "active": 1,
+        "absolute_url": "\/pt\/moscavide",
+        "map_data": {
+            "lng": -9.1047778,
+            "lat": 38.779008,
+            "zoom": 15
+        },
+        "headline": "",
+        "country": {
+            "id": 143,
+            "sort": 0,
+            "lang": "en",
+            "code": "pt",
+            "title": "Portugal",
+            "web_title": "",
+            "created_at": "2018-12-29T15:41:22.000000Z",
+            "updated_at": "2019-04-24T18:49:42.000000Z",
+            "text": "",
+            "country_map": {
+                "lng": -8.2771754,
+                "lat": 39.6099525,
+                "zoom": 7
+            },
+            "phone_code": "+351",
+            "is_default": false,
+            "timezone": "GMT+0",
+            "currency": "\u20ac",
+            "phone_full_mask": "+351 (11) 111-1111",
+            "phone_mask": "(11) 111-1111",
+            "pay_currency": "USD",
+            "fields_mapping": "App\\Models\\TowTrucks\\EuropeFieldsMapping",
+            "absolute_url": "\/pt"
+        }
+    },
+    {
+        "id": 1718,
+        "name": "Mosta",
+        "local_name": null,
+        "domain": "mosta",
+        "created_at": "2018-05-08T09:40:46.000000Z",
+        "updated_at": "2018-05-08T09:40:46.000000Z",
+        "deleted_at": null,
+        "title": "",
+        "meta_description": null,
+        "map": null,
+        "sort": 0,
+        "description": "",
+        "timezone": "GMT+1",
+        "country_id": 33,
+        "prices": {
+            "rates": {
+                "light": {
+                    "fee": "40",
+                    "per_mile": "2.5"
+                },
+                "medium": {
+                    "fee": "65",
+                    "per_mile": "3"
+                },
+                "heavy": {
+                    "fee": "125",
+                    "per_mile": "4"
+                },
+                "miles": "1"
+            },
+            "extra": {
+                "winching": "40",
+                "night_charge": "40",
+                "labour": "40",
+                "lockout": "40",
+                "tire_change": "40",
+                "jump_start": "40",
+                "fuel_delivery": "40"
+            }
+        },
+        "city_code": "",
+        "active": 1,
+        "absolute_url": "\/mt\/mosta",
+        "map_data": {
+            "lng": 14.4176564,
+            "lat": 35.9075895,
+            "zoom": 14
+        },
+        "headline": "",
+        "country": {
+            "id": 33,
+            "sort": 0,
+            "lang": "en",
+            "code": "mt",
+            "title": "Malta",
+            "web_title": "",
+            "created_at": "2018-04-27T09:29:07.000000Z",
+            "updated_at": "2019-02-01T15:24:59.000000Z",
+            "text": "",
+            "country_map": {
+                "lng": 14.3069032,
+                "lat": 35.9143238,
+                "zoom": 10
+            },
+            "phone_code": "+356",
+            "is_default": false,
+            "timezone": "GMT+1",
+            "currency": "\u20ac",
+            "phone_full_mask": "+356 1111-1111",
+            "phone_mask": "1111-1111",
+            "pay_currency": "USD",
+            "fields_mapping": "App\\Models\\TowTrucks\\EuropeFieldsMapping",
+            "absolute_url": "\/mt"
+        }
+    },
+   
+    {
+        "id": 2737,
+        "name": "Mosman",
+        "local_name": null,
+        "domain": "mosman",
+        "created_at": "2018-05-23T08:11:56.000000Z",
+        "updated_at": "2018-05-23T08:11:56.000000Z",
+        "deleted_at": null,
+        "title": "",
+        "meta_description": null,
+        "map": null,
+        "sort": 0,
+        "description": "",
+        "timezone": "GMT+10",
+        "country_id": 70,
+        "prices": {
+            "rates": {
+                "light": {
+                    "fee": "65",
+                    "per_mile": "4"
+                },
+                "medium": {
+                    "fee": "100",
+                    "per_mile": "5"
+                },
+                "heavy": {
+                    "fee": "200",
+                    "per_mile": "6"
+                },
+                "miles": "1"
+            },
+            "extra": {
+                "winching": "65",
+                "night_charge": "65",
+                "labour": "65",
+                "lockout": "65",
+                "tire_change": "65",
+                "jump_start": "65",
+                "fuel_delivery": "65"
+            }
+        },
+        "city_code": "",
+        "active": 1,
+        "absolute_url": "\/au\/mosman",
+        "map_data": {
+            "lng": 151.2460426,
+            "lat": -33.8285426,
+            "zoom": 13
+        },
+        "headline": "",
+        "country": {
+            "id": 70,
+            "sort": 0,
+            "lang": "en",
+            "code": "au",
+            "title": "Australia",
+            "web_title": "",
+            "created_at": "2018-04-27T13:16:12.000000Z",
+            "updated_at": "2019-02-01T15:01:39.000000Z",
+            "text": "",
+            "country_map": {
+                "lng": 133.4283773,
+                "lat": -25.2801529,
+                "zoom": 5
+            },
+            "phone_code": "+61",
+            "is_default": false,
+            "timezone": "GMT+10",
+            "currency": "$",
+            "phone_full_mask": "+61 (1) 1111-1111",
+            "phone_mask": "(1) 1111-1111",
+            "pay_currency": "USD",
+            "fields_mapping": "App\\Models\\TowTrucks\\EuropeFieldsMapping",
+            "absolute_url": "\/au"
+        }
+    }
+]
